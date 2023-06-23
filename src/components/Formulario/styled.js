@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const FormWrapper = styled.div`
-  width: 100vw;
+  width: 55vw;
   display: flex;
   flex-direction: column;
   align-items: center;

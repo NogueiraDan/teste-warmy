@@ -1,14 +1,14 @@
 import styled from "styled-components";
 
 export const TaskWrapper = styled.div`
-  width: 50vw;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 30px auto;
   padding: 10px;
   background: #932952;
   border-radius: 16px;
+  margin: 10px;
 `;
 
 export const Task = styled.div`
